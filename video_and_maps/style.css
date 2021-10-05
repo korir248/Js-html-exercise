@@ -6,9 +6,10 @@ div {
     font-size: 16px;
     font-family: monospace;
     font-weight: bold;
+    align-content: center;
 }
  div :hover{
-     background-color: aqua;
+     background-color: silver;
  }
 
 #map-iframe {
@@ -20,4 +21,8 @@ h2 {
     color: black;
     font-family: 'Times New Roman';
     font-size: 20px;
-}   
+}
+#id {
+    text-align: center;
+    margin-left: 50%;
+}  
